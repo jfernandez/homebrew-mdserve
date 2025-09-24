@@ -1,8 +1,8 @@
 class Mdserve < Formula
   desc "Fast markdown preview server with live reload and theme support"
   homepage "https://github.com/jfernandez/mdserve"
-  url "https://github.com/jfernandez/mdserve/archive/v0.1.0.tar.gz"
-  sha256 "28845c690da9ee70e06beb40ba311097356dc81cc046c4fdc292e215e271dcdf"
+  url "https://github.com/jfernandez/mdserve/archive/v0.2.0.tar.gz"
+  sha256 "30256fa8ed39c2ed10d52e91d81316cb3102acf2ced418f5808727784ccaaee1"
   license "MIT"
 
   depends_on "rust" => :build
